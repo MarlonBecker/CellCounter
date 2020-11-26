@@ -1,0 +1,4 @@
+[MASTER]
+init-hook = 'import sys; sys.path.append("src")'
+unsafe-load-any-extension=y
+disable = line-too-long, bad-whitespace, invalid-name, multiple-statements

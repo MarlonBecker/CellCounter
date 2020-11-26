@@ -1,0 +1,18 @@
+{
+    "show": {
+        "Red": true,
+        "Green": true,
+        "Blue": true
+    },
+    "UV": {
+        "exposureTime": 1150,
+        "LED_Brigh": 100
+    },
+    "Color": {
+        "exposureTime": 50,
+        "LED_Red": 255,
+        "LED_Green": 255,
+        "LED_Blue": 255,
+        "LED_Brigh": 255
+    }
+}
